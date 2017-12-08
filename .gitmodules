@@ -1,0 +1,3 @@
+[submodule "cam2005"]
+	path = cam2005
+	url = git@github.com:pasha-bolokhov/cam2005
