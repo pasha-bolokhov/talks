@@ -1,3 +1,48 @@
 [submodule "cam2005"]
 	path = cam2005
 	url = git@github.com:pasha-bolokhov/cam2005
+[submodule "caqcd2011"]
+	path = caqcd2011
+	url = git@github.com:pasha-bolokhov/caqcd2011
+[submodule "caqcd2016"]
+	path = caqcd2016
+	url = git@github.com:pasha-bolokhov/caqcd2016
+[submodule "duluth2015"]
+	path = duluth2015
+	url = git@github.com:pasha-bolokhov/duluth2015
+[submodule "ftpi2015"]
+	path = ftpi2015
+	url = git@github.com:pasha-bolokhov/ftpi2015
+[submodule "mcgill2006"]
+	path = mcgill2006
+	url = git@github.com:pasha-bolokhov/mcgill2006
+[submodule "mcgill2012"]
+	path = mcgill2012
+	url = git@github.com:pasha-bolokhov/mcgill2012
+[submodule "perimeter2005"]
+	path = perimeter2005
+	url = git@github.com:pasha-bolokhov/perimeter2005
+[submodule "perimeter2013"]
+	path = perimeter2013
+	url = git@github.com:pasha-bolokhov/perimeter2013
+[submodule "pitt2016"]
+	path = pitt2016
+	url = git@github.com:pasha-bolokhov/pitt2016
+[submodule "santafe2005"]
+	path = santafe2005
+	url = git@github.com:pasha-bolokhov/santafe2005
+[submodule "stmp2009"]
+	path = stmp2009
+	url = git@github.com:pasha-bolokhov/stmp2009
+[submodule "stmp2011"]
+	path = stmp2011
+	url = git@github.com:pasha-bolokhov/stmp2011
+[submodule "ubc2007"]
+	path = ubc2007
+	url = git@github.com:pasha-bolokhov/ubc2007
+[submodule "upenn2012"]
+	path = upenn2012
+	url = git@github.com:pasha-bolokhov/upenn2012
+[submodule "uw2012"]
+	path = uw2012
+	url = git@github.com:pasha-bolokhov/uw2012
